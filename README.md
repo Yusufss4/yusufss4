@@ -1,14 +1,27 @@
-### Hi there 👋
+# Hi there 👋, I'm Yusuf
 
-- 🔌 Currently Embedded Software Engineer at Borda Technology mainly focuses on Zephyr
-- 💻 Was a Software Engineer at Intertech in Fintechs and Open Banking department
-- ✔️ Participated more than 8 big organizations as a presenter, coordinator, designer and as a leader.
-- 🚀 Was a Team leader in Teknofest Sattelite 2020 - EEMK Aren
-- 🚀 Was a Sub-system designer in Teknofest Sattelite 2019 - IEEESat
-- 🔧 Was a Designer in Nishro Robot Competition SPARK Project
+## 🚀 About Me
+I am an **Embedded Software Developer** at [Borda Technology](https://www.bordatech.com) with experience in developing IoT devices and embedded systems. Passionate about creating impactful software that runs on thousands of connected devices, I specialize in **C**, **C++**, **Cellular IoT**, **BLE**, and **RTOS**. We are doing Real Time Indoor Location Tracking and Positioning.
 
-Also as a hobby I have strong practical knowledge about graphical design, UI/UX and can use Adobe Illustrator and Canva effectively.
+---
 
-You can check my blog for some of the projects I have done in school.
-- 👉 http://codmeda.com/
-- 💾 https://github.com/yusufss4
+## 🔧 Technologies & Tools
+- **Languages:** C, C++, Python  
+- **Protocols:** MQTT, EtherCAT, Protobuf
+- **Development:** Embedded Linux, Nb-IoT
+---
+
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufss4&layout=compact)
+
+---
+
+## 🌱 Find Me Online
+- 💼 [LinkedIn](https://www.linkedin.com/in/yusufss)  
+- 📂 [GitHub](https://github.com/yusufss4)  
+- 📝 [Blog](http://codmeda.com/)  
+
+---
+
+Feel free to reach out for collaboration or discussion!
+
