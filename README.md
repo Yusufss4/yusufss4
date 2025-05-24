@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Yusuf
+# Hi there, I'm Yusuf
 
 ## About Me
 I am an **Embedded Software Developer** at [Borda Technology](https://www.bordatech.com) with experience in developing IoT devices and embedded systems. Passionate about creating impactful software that runs on thousands of connected devices, I specialize in **C**, **C++**, **Cellular IoT**, **BLE**, and **RTOS**. We are doing Real Time Indoor Location Tracking and Positioning.
