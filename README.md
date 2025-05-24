@@ -17,9 +17,9 @@ I am an **Embedded Software Developer** at [Borda Technology](https://www.bordat
 ---
 
 ## Find Me Online
-- 💼 [LinkedIn](https://www.linkedin.com/in/yusufss)  
-- 📂 [GitHub](https://github.com/yusufss4)  
-- 📝 [Blog](http://codmeda.com/)  
+- [LinkedIn](https://www.linkedin.com/in/yusufss)  
+- [GitHub](https://github.com/yusufss4)  
+- [Blog](http://codmeda.com/)  
 
 ---
 
